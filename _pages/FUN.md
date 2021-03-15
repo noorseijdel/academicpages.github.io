@@ -1,3 +1,3 @@
 
 
-![alt text](/images/fun1.png "fun1")
+![alt text](/images/fun1.jpg "fun1")
