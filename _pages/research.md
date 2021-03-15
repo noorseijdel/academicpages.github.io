@@ -13,7 +13,7 @@ author_profile: true
 
 ### Pre-prints / submitted manuscripts
 
-Please note that these pre-prints have not yet undergone peer review and may be revised as the work progresses
+*Please note that these pre-prints have not yet undergone peer review and may be revised as the work progresses*
 
 - **Seijdel N**, Loke J, van de Klundert R, van der Meer M, Quispel E, van Gaal S, de Haan EHF, Scholte HS. (2020) On the necessity of recurrent processing during object recognition: it depends on the need for scene segmentation. [[preprint](https://doi.org/10.1101/2020.11.11.377655)]
 
