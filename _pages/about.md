@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 feature_row:
   - title: <a href="https://twitter.com/noorseijdel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @noorseijdel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    excerpt: <a class="twitter-timeline" data-width="600" data-theme="light" data-link-color="#7dc3dd" href="https://twitter.com/noorseijdel?ref_src=twsrc%5Etfw">Tweets by noorseijdel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    excerpt: <a class="twitter-timeline" data-theme="light" data-link-color="#7dc3dd" href="https://twitter.com/noorseijdel?ref_src=twsrc%5Etfw">Tweets by noorseijdel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
 
